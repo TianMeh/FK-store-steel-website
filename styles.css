@@ -409,6 +409,10 @@ span {
         font-size: 25px;
         line-height: 35px;
     }
+    p {
+        font-size: 12px;
+        line-height: 13px;
+    }
     .col {
         margin-bottom: 60vh;
     }
