@@ -417,7 +417,7 @@ span {
         margin-bottom: 60vh;
     }
     .row {
-        width: 60vh
+        width: auto;
     }
     .gumb1 {
         display: none;
