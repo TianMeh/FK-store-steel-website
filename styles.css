@@ -418,11 +418,11 @@ span {
         margin-bottom: 60vh;
     }
     .col h1 {
-        font-size: 40px;
-        line-height: 50px;
+        font-size: 30px;
+        line-height: 40px;
     }
     .col img {
-        width: 27vh;
+        width: 180px;
         border-radius: 5px;
     }
     .row {
